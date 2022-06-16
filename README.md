@@ -6,7 +6,9 @@ https://github.com/testing-library/cypress-testing-library
 
 // Example for uses
 https://testing-library.com/docs/
+
 -Core Api
+
 -findBy........
 
 npm install --save-dev @testing-library/cypress
