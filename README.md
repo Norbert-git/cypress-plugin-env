@@ -14,5 +14,7 @@ https://testing-library.com/docs/
 npm install --save-dev @testing-library/cypress
 
 // copy and paste into
+
 cypress/support/commands.js
+
 import '@testing-library/cypress/add-commands'
